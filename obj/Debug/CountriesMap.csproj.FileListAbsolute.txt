@@ -1,0 +1,9 @@
+C:\Users\urahimov\source\repos\ABBTechAcademy\CountriesMap\bin\Debug\CountriesMap.exe.config
+C:\Users\urahimov\source\repos\ABBTechAcademy\CountriesMap\bin\Debug\CountriesMap.exe
+C:\Users\urahimov\source\repos\ABBTechAcademy\CountriesMap\bin\Debug\CountriesMap.pdb
+C:\Users\urahimov\source\repos\ABBTechAcademy\CountriesMap\obj\Debug\CountriesMap.exe
+C:\Users\urahimov\source\repos\ABBTechAcademy\CountriesMap\obj\Debug\CountriesMap.pdb
+C:\Users\urahimov\source\repos\ABBTechAcademy\CountriesMap\bin\Debug\CommandLine.dll
+C:\Users\urahimov\source\repos\ABBTechAcademy\CountriesMap\bin\Debug\CommandLine.xml
+C:\Users\urahimov\source\repos\ABBTechAcademy\CountriesMap\obj\Debug\CountriesMap.csproj.CopyComplete
+C:\Users\urahimov\source\repos\ABBTechAcademy\CountriesMap\obj\Debug\CountriesMap.csprojAssemblyReference.cache
