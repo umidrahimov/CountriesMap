@@ -28,7 +28,7 @@ namespace CountriesMap
 
         static void Main(string[] args)
         {
-            if (args.Length>0)
+            if (args.Length > 0)
             {
                 Parser.Default.ParseArguments<Options>(args)
                   .WithParsed<Options>(o =>
@@ -36,7 +36,7 @@ namespace CountriesMap
                       N = o.Raws;
                       M = o.Columns;
 
-                      string[] inputArray = o.Matrix.Split(new string[] { " ", ",", ", " }, StringSplitOptions.RemoveEmptyEntries);
+                      string[] inputArray = o.Matrix.Split(new string[] { " ", ",", "{", "}" }, StringSplitOptions.RemoveEmptyEntries);
 
                       int[] colours = Array.ConvertAll(inputArray, int.Parse);
 
@@ -78,9 +78,11 @@ namespace CountriesMap
 
                 Console.WriteLine("Please enter {0} numbers to fill in the matrix", N * M);
 
+                Console.WriteLine("Example: {5,4,4},{4,3,4},{3,2,4},{2,2,2},{3,3,4},{1,4,4},{4,1,1}");
+
                 string input = Console.ReadLine();
 
-                string[] inputArray = input.Split(new string[] { " ", ",", ", " }, StringSplitOptions.RemoveEmptyEntries);
+                string[] inputArray = input.Split(new string[] { " ", ",", "{", "}" }, StringSplitOptions.RemoveEmptyEntries);
 
                 int[] colours = Array.ConvertAll(inputArray, int.Parse);
 

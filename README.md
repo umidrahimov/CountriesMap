@@ -12,7 +12,7 @@ OPTION 1
 1) open cmd or powershell
 2) navigate to {local folder path}/CountriesMap/bin/Debug/
 3) type CountriesMap.exe with parameters -N {Number of rows in the matrix} -M {Number of columns in the matrix} - A {Numbers to fill the matrix (Separated by comma)}
-For example: CountriesMap.exe -N 7 -M 3 -A 5,4,4,4,3,4,3,2,4,2,2,2,3,3,4,1,4,4,4,1,1
+For example: CountriesMap.exe -N 7 -M 3 -A {5,4,4},{4,3,4},{3,2,4},{2,2,2},{3,3,4},{1,4,4},{4,1,1}
 
 OPTION 2
 1) open cmd or powershell
