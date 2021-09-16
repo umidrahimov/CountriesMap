@@ -6,4 +6,3 @@ C:\Users\urahimov\source\repos\ABBTechAcademy\CountriesMap\obj\Debug\CountriesMa
 C:\Users\urahimov\source\repos\ABBTechAcademy\CountriesMap\bin\Debug\CommandLine.dll
 C:\Users\urahimov\source\repos\ABBTechAcademy\CountriesMap\bin\Debug\CommandLine.xml
 C:\Users\urahimov\source\repos\ABBTechAcademy\CountriesMap\obj\Debug\CountriesMap.csproj.CopyComplete
-C:\Users\urahimov\source\repos\ABBTechAcademy\CountriesMap\obj\Debug\CountriesMap.csprojAssemblyReference.cache

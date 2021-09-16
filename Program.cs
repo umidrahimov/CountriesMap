@@ -50,7 +50,9 @@ namespace CountriesMap
                           }
                       }
 
-                      Console.WriteLine(solution(matrix));
+                      Console.WriteLine($"Result: {solution(matrix)}\n");
+
+                      Console.WriteLine("Colour martix:");
 
                       for (int i = 0; i < N; i++)
                       {
